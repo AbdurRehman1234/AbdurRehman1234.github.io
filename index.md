@@ -2,18 +2,18 @@
 
 ---
 
-### Web Scraping
+### Web Scraping Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Scraper to collect Companies Information [Sample Data](https://github.com/AbdurRehman1234/web-scraping-projects/tree/master/Mr.sininternational)
+<img src="images/first.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Restaurants [Sample Data](https://github.com/AbdurRehman1234/web-scraping-projects/tree/master/MR.stan)
+<img src="images/second.png?raw=true"/>
+
+---
+Google Maps Scraper [Sample Data](https://github.com/AbdurRehman1234/web-scraping-projects/tree/master/makeguiforscraper)
+<img src="images/third.png?raw=true"/>
 
 ---
 
