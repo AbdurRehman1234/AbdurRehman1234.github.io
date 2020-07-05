@@ -4,6 +4,22 @@ description: > # your text below (remove <br> elements if you don't need line br
  Python Developer <br>
  Web Scraping Expert <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/jesssailor rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-55daea2f-27e7-4b97-bcba-22535f4e20eb' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >jesssailor</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I am an expert in Web Scraping having experience over 2 years. My expertise also includes web programming. I have done many projects related to web scraping such as scraping aliexpress, courses content from the private content of my client also scraped a restaurant</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-55daea2f-27e7-4b97-bcba-22535f4e20eb' src='https://widgets.fiverr.com/api/v1/seller/jesssailor?widget_id=55daea2f-27e7-4b97-bcba-22535f4e20eb' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
