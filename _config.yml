@@ -1,13 +1,13 @@
 title: Abdur Rehman # your name (or website title) here
 logo: "/images/AbdurRehman.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- **Python Developer** <br>
- **Web Scraping Expert** <br>
+ Python Developer <br>
+ Web Scraping Expert <br>
   <br>
-  1. <a href="https://www.fiverr.com/jesssailor">View My Fiverr Profile</a> <br>
-  2. <a href="https://github.com/AbdurRehman1234">View My Github Profile</a> <br>
-  3. <a href="https://www.linkedin.com/in/abdur-rehman-019691b8/">View My LinkedIn Profile</a>  <br>
-  4. <a href="https://stackoverflow.com/users/13853153/abdur-rehman">View My Stack Overflow Profile</a>  <br>
+  <a href="https://www.fiverr.com/jesssailor">View My Fiverr Profile</a> <br>
+  <a href="https://github.com/AbdurRehman1234">View My Github Profile</a> <br>
+  <a href="https://www.linkedin.com/in/abdur-rehman-019691b8/">View My LinkedIn Profile</a>  <br>
+  <a href="https://stackoverflow.com/users/13853153/abdur-rehman">View My Stack Overflow Profile</a>  <br>
 
   
 theme: jekyll-theme-minimal
